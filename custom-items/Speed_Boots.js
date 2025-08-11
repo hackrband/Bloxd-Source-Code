@@ -1,0 +1,1 @@
+api.giveItem(myId, "Red Wood Boots", 1, {customAttributes: {enchantments: {"Speed": 3,},enchantmentTier: "Tier 4"},customDisplayName: "Speed Boots",customDescription: "Increases your speed",})

@@ -1,0 +1,1 @@
+api.giveItem(myId, "White Wood Gauntlets", 1, {customAttributes: {enchantments: {"Protection": 15,},enchantmentTier: "Tier 3"},customDisplayName: "Moonstone Gauntlets",customDescription: "Protects you from enemy hits",})

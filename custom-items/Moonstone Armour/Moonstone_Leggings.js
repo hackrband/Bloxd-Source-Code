@@ -1,0 +1,1 @@
+api.giveItem(myId, "White Wood Leggings", 1, {customAttributes: {enchantments: {"Protection": 15,},enchantmentTier: "Tier 3"},customDisplayName: "Moonstone Leggings",customDescription: "Protects you from enemy hits",})

@@ -1,0 +1,1 @@
+api.giveItem(myId, "Stick", 1, {customAttributes: {enchantments: {"Damage": 1,"Vertical Knockback": 20,"Horizontal Knockback": 8,},enchantmentTier: "Tier 5"},customDisplayName: "Knockback Stick",customDescription: "Throws enemies into the air",})

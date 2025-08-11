@@ -1,0 +1,1 @@
+api.giveItem(myId, "Knight Sword", 1, {customAttributes: {enchantments: {"Damage": 10,},enchantmentTier: "Tier 5"},customDisplayName: "The Knight's Dagger",customDescription: "Stab your enemies mercilessly.",})

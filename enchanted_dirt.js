@@ -1,0 +1,1 @@
+api.giveItem(myId, "Dirt", 1, {customAttributes: {enchantments: {"Damage": 1,},enchantmentTier: "Tier 5"},customDisplayName: "Enchanted Dirt",customDescription: "",})
