@@ -19,3 +19,13 @@ It contains utilities, custom items, commands, and effect scripts to help world 
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/hackrband/Bloxd-Source-Code.git
+``
+## Credits & License
+
+This project is for **educational purposes only**.
+
+Credits to **Hackrband** and the original creators and resources used in this project.
+
+You may use this project for educational purposes, but **you may not claim, present, or redistribute this specific project as your own work**.
+
+**© 2026 Hackrband**
